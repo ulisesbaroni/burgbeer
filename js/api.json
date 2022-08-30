@@ -5,7 +5,7 @@
     "nombre": "BURGER Clásica",
     "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, cebolla, queso tybo, mayonesa cacera y huevo",
     "precio": 1200,
-    "img": "/img/clasica.jpg",
+    "img": "../img/clasica.jpg",
     "cantidad": 1
 },
 {
@@ -13,7 +13,7 @@
     "nombre": "BURGER Cheddar",
     "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, queso tybo, mayonesa cacera, huevo y queso cheddar",
     "precio": 1300,
-    "img": "/img/cheddar.jpg",
+    "img": "../img/cheddar.jpg",
     "cantidad": 1
 },
 {
@@ -21,7 +21,7 @@
     "nombre": "BURGER Argenta",
     "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, queso tybo, mayonesa cacera, huevo y un toque de chimi",
     "precio": 1350,
-    "img": "/img/argenta.jpg",
+    "img": "../img/argenta.jpg",
     "cantidad": 1
 },
 {
@@ -29,7 +29,7 @@
     "nombre": "BURGER Blue Chesse",
     "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, queso tybo, queso azul, mayonesa cacera y huevo",
     "precio": 1350,
-    "img": "/img/blue-cheese.jpg",
+    "img": "../img/blue-cheese.jpg",
     "cantidad": 1
 },
 {
@@ -37,7 +37,7 @@
     "nombre": "BURGER BBQ",
     "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, queso tybo, salsa barbacoa, mayonesa cacera, cebolla morada y huevo",
     "precio": 1350,
-    "img": "/img/barbacuee.jpg",
+    "img": "../img/barbacuee.jpg",
     "cantidad": 1
 },
 {
@@ -45,7 +45,7 @@
     "nombre": "BURGER Veggie",
     "ingredientes": "pan de papa, medallón vegano, rúcula, verduras salteadas, berenjenas, champignon, queso vegano y veganesa",
     "precio": 1200,
-    "img": "/img/veggie.jpg",
+    "img": "../img/veggie.jpg",
     "cantidad": 1
 },
 {
@@ -53,7 +53,7 @@
     "nombre": "BURGER V-Palta",
     "ingredientes": "palta, medallon de vegetales, pimiento rojo, verde y amarillo fileteado, pepino, cebolla morada, queso vegano y veganesa",
     "precio": 1250,
-    "img": "/img/palta.jpg",
+    "img": "../img/palta.jpg",
     "cantidad": 1
 },
 {
@@ -61,7 +61,7 @@
     "nombre": "PAPAS Cheddar",
     "ingredientes": "papas, salsa cheddar, panceta, perejil",
     "precio": 900,
-    "img": "/img/papas-cheddar.jpg",
+    "img": "../img/papas-cheddar.jpg",
     "cantidad": 1
 },
 {
@@ -69,7 +69,7 @@
     "nombre": "PAPAS Bravas",
     "ingredientes": "papas con cáscara, ajo, pimentón, pimiento rojo, perejil",
     "precio": 950,
-    "img": "/img/papas-bravas.jpg",
+    "img": "../img/papas-bravas.jpg",
     "cantidad": 1
 },
 {
@@ -77,7 +77,7 @@
     "nombre": "NACHO - PAPAS",
     "ingredientes": "papas con cáscara fileteada, ajo, pimienta, panceta, cebolla morada, carne de cerdo, palta, cheddar",
     "precio": 1100,
-    "img": "/img/nacho-papa.jpg",
+    "img": "../img/nacho-papa.jpg",
     "cantidad": 1
 },
 {
@@ -85,7 +85,7 @@
     "nombre": "ALE - IPA",
     "ingredientes": "Alta graduación alcohólica (entre 5º y 7º), tiene una mayor cantidad de lúpulo y por lo tanto un amargor y aroma intensos y cierta complejidad en el paladar",
     "precio": 700,
-    "img": "/img/ale-ipa.jpg",
+    "img": "../img/ale-ipa.jpg",
     "cantidad": 1
 },
 {
@@ -93,7 +93,7 @@
     "nombre": "PALE - ALE",
     "ingredientes": "Alta graduación alcohólica, natural, sabor cremoso y suave. Muy puro al ser artesanal y tan natural. Además, nos ofrece toques cítricos y algo amargos",
     "precio": 700,
-    "img": "/img/ale-pale-ale.jpg",
+    "img": "../img/ale-pale-ale.jpg",
     "cantidad": 1
 },
 {
@@ -101,7 +101,7 @@
     "nombre": "ALE - STOUT",
     "ingredientes": "Sumamente oscura casi negra, bien tostada y con un gran porcentaje de alcohol. En nariz se perciben aromas a café y chocolate. Su espuma es densa",
     "precio": 700,
-    "img": "/img/ale-stout.jpg",
+    "img": "../img/ale-stout.jpg",
     "cantidad": 1
 },
 {
@@ -109,7 +109,7 @@
     "nombre": "LAGER - AMBER",
     "ingredientes": "Color ámbar, aroma a caramelo suave, gracias a la combinación de sus 4 maltas. Sabor caramelo leve tostado que deja un sutil dulzor en la boca",
     "precio": 700,
-    "img": "/img/lager-amber.jpg",
+    "img": "../img/lager-amber.jpg",
     "cantidad": 1
 },
 {
@@ -117,7 +117,7 @@
     "nombre": "LAGER - PILSEN",
     "ingredientes": "Graduación de alcohol media-baja. Cerveza rubia elaborada con maltas claras como la Malta Pilsner o la Premium Pilsner. Ligero aroma a lúpulo con notas suaves y frescas.",
     "precio": 700,
-    "img": "/img/lager-pilsen.jpg",
+    "img": "../img/lager-pilsen.jpg",
     "cantidad": 1
 },
 {
@@ -125,7 +125,7 @@
     "nombre": "LAGER - BOCK",
     "ingredientes": "Con carácter más intenso y subido de tono. Sabor pleno y maltoso, con mayor sabor a tostado y a melanoidinas",
     "precio": 700,
-    "img": "/img/lager-bock.jpg",
+    "img": "../img/lager-bock.jpg",
     "cantidad": 1
 }
 ]
