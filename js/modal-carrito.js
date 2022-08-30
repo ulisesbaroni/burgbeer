@@ -90,7 +90,7 @@ enviarPedido.addEventListener('click', () => {
             Swal.fire({
                 
                 title: '¡Envío exitoso!',
-                imageUrl: '../img/ok.jpg',
+                imageUrl: './img/ok.jpg',
                 html: '<b>Tu pedido esta siendo preparado!</b> <br><br>' +
                     '<b>Tu opinión nos hace crecer!</b> ' +
                     'Por eso nos gustaría saber.. ¿Que te parece nuestro sistema de pedido digital? ',
@@ -107,7 +107,7 @@ enviarPedido.addEventListener('click', () => {
                 if (result.isConfirmed) {
                     Swal.fire({
                         position: 'center',
-                        imageUrl: '../img/si.jpg',
+                        imageUrl: './img/si.jpg',
                         title: '¡Buenísimol! Nos alegra muchísimo saber eso. Muchas gracias por tu opinión!',
                         showConfirmButton: false,
                         timer: 3500
@@ -116,7 +116,7 @@ enviarPedido.addEventListener('click', () => {
                 } else {
                     Swal.fire({
                         position: 'center',
-                        imageUrl: '../img/no.jpg',
+                        imageUrl: './img/no.jpg',
                         title: 'Excelente, pensaremos nuevas ideas para mejorar nuestro servicio! Muchas gracias por tu opinión!',
                         showConfirmButton: false,
                         timer: 4000,
@@ -131,7 +131,7 @@ enviarPedido.addEventListener('click', () => {
         } else {
             Swal.fire({
                 position: 'center',
-                imageUrl: '../img/error.jpg',
+                imageUrl: './img/error.jpg',
                 title: '¡Ay carammmba!',
                 text: 'Parece que no hay productos en tu carrito, por favor selecciona un producto para poder enviar el pedido!',
 

@@ -85,7 +85,6 @@
 
  .modal-ingresar label{
   margin-bottom: 10px;
-  /* font-weight: bolder; */
  }
 
  .form-check-input:checked{
@@ -115,27 +114,6 @@
 flex-direction: column;
   justify-content: center;
 }
-
-
-
-
-/* Modal Carrito */
-
-/* .modal-items{
-  margin: 5px 0;
-  display: flex;
-  text-align: center;
-  padding: 1rem 1rem;
-  border-bottom: 1px solid #cacaca; 
-}
-
-.modal-items div{
-  margin-bottom: 0;
-  margin-top: 8px;
-  font-size: 15px;
-  width: 15em;
-} */
-
 
 .productoEnCarrito {
   margin: 5px 0;
