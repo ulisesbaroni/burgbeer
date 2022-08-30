@@ -69,7 +69,7 @@
  }
 
  .modal-ingresar{
-  background-image: url(/img/fondoModal.jpg);
+  background-image: url(../img/fondoModal.jpg);
   background-color: rgba(218, 210, 210, 0.815);
   border-width: 2px;
   border-color: yellow;
