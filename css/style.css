@@ -6,12 +6,12 @@
 
 @font-face {
   font-family: 'Vescona';
-  src: url(/fonts/Vescona.ttf);
+  src: url(../fonts/Vescona.ttf);
 }
 
 .body-index {
 
-  background-image: url(/img/75567.jpg);
+  background-image: url(../img/75567.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
