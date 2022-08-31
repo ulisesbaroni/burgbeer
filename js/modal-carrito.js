@@ -14,7 +14,7 @@ const carritoIndex = (productoId) => {
         //Si existe producto en carrito, sumarle una unidad
         const existe = carritoDeCompras.find(x => x.id === producto.id);
 
-        if (existe) {
+        if (existe) { 
             carritoDeCompras.forEach(x => x.id === existe.id ? x.cantidad++ : x.cantidad);
         } else {
             carritoDeCompras.push(producto);
@@ -91,7 +91,7 @@ enviarPedido.addEventListener('click', () => {
                 
                 title: '¡Envío exitoso!',
                 imageUrl: './img/ok.jpg',
-                html: '<b>Tu pedido esta siendo preparado!</b> <br><br>' +
+                html: '<b>Tu pedido está siendo preparado!</b> <br><br>' +
                     '<b>Tu opinión nos hace crecer!</b> ' +
                     'Por eso nos gustaría saber.. ¿Que te parece nuestro sistema de pedido digital? ',
                 showCloseButton: false,

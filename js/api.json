@@ -3,7 +3,7 @@
     {
     "id": 1,
     "nombre": "BURGER Clásica",
-    "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, cebolla, queso tybo, mayonesa cacera y huevo",
+    "ingredientes": "Pan de papa, medallón de carne, lechuga, tomate, cebolla, queso tybo, mayonesa casera, panceta y huevo",
     "precio": 1200,
     "img": "./img/clasica.jpg",
     "cantidad": 1
@@ -11,7 +11,7 @@
 {
     "id": 2,
     "nombre": "BURGER Cheddar",
-    "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, queso tybo, mayonesa cacera, huevo y queso cheddar",
+    "ingredientes": "Pan de papa, medallón de carne, pimiento rojo, queso tybo, mayonesa casera, panceta, huevo y queso cheddar",
     "precio": 1300,
     "img": "./img/cheddar.jpg",
     "cantidad": 1
@@ -19,7 +19,7 @@
 {
     "id": 3,
     "nombre": "BURGER Argenta",
-    "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, queso tybo, mayonesa cacera, huevo y un toque de chimi",
+    "ingredientes": "Pan de papa, medallón de carne, lechuga, tomate, cebolla morada, queso tybo, mayonesa casera, huevo, panceta y un toque de chimi",
     "precio": 1350,
     "img": "./img/argenta.jpg",
     "cantidad": 1
@@ -27,7 +27,7 @@
 {
     "id": 4,
     "nombre": "BURGER Blue Chesse",
-    "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, queso tybo, queso azul, mayonesa cacera y huevo",
+    "ingredientes": "Pan de papa, medallón de carne, lechuga, cebolla morada, queso tybo, queso azul, mayonesa casera y huevo",
     "precio": 1350,
     "img": "./img/blue-cheese.jpg",
     "cantidad": 1
@@ -35,7 +35,7 @@
 {
     "id": 5,
     "nombre": "BURGER BBQ",
-    "ingredientes": "pan de papa, medallón de carne, lechuga, tomate, queso tybo, salsa barbacoa, mayonesa cacera, cebolla morada y huevo",
+    "ingredientes": "Pan de papa, medallón de carne, lechuga, tomate, queso tybo, salsa barbacoa, mayonesa casera, cebolla morada, panceta y huevo",
     "precio": 1350,
     "img": "./img/barbacuee.jpg",
     "cantidad": 1
@@ -43,7 +43,7 @@
 {
     "id": 6,
     "nombre": "BURGER Veggie",
-    "ingredientes": "pan de papa, medallón vegano, rúcula, verduras salteadas, berenjenas, champignon, queso vegano y veganesa",
+    "ingredientes": "Pan de papa, medallón vegano, rúcula, verduras salteadas, berenjenas, champignon, queso vegano y veganesa",
     "precio": 1200,
     "img": "./img/veggie.jpg",
     "cantidad": 1
@@ -51,7 +51,7 @@
 {
     "id": 7,
     "nombre": "BURGER V-Palta",
-    "ingredientes": "palta, medallon de vegetales, pimiento rojo, verde y amarillo fileteado, pepino, cebolla morada, queso vegano y veganesa",
+    "ingredientes": "Palta, medallón de vegetales, pimiento rojo, verde y amarillo fileteado, pepino, cebolla morada, queso vegano y veganesa",
     "precio": 1250,
     "img": "./img/palta.jpg",
     "cantidad": 1
@@ -59,7 +59,7 @@
 {
     "id": 8,
     "nombre": "PAPAS Cheddar",
-    "ingredientes": "papas, salsa cheddar, panceta, perejil",
+    "ingredientes": "Papas, salsa cheddar, panceta y perejil",
     "precio": 900,
     "img": "./img/papas-cheddar.jpg",
     "cantidad": 1
@@ -67,7 +67,7 @@
 {
     "id": 9,
     "nombre": "PAPAS Bravas",
-    "ingredientes": "papas con cáscara, ajo, pimentón, pimiento rojo, perejil",
+    "ingredientes": "Papas con cáscara, ajo, pimentón, pimiento rojo y perejil",
     "precio": 950,
     "img": "./img/papas-bravas.jpg",
     "cantidad": 1
@@ -75,7 +75,7 @@
 {
     "id": 10,
     "nombre": "NACHO - PAPAS",
-    "ingredientes": "papas con cáscara fileteada, ajo, pimienta, panceta, cebolla morada, carne de cerdo, palta, cheddar",
+    "ingredientes": "Papas con cáscara fileteada, ajo, pimienta, panceta, cebolla morada, carne de cerdo, palta y queso cheddar",
     "precio": 1100,
     "img": "./img/nacho-papa.jpg",
     "cantidad": 1
@@ -83,7 +83,7 @@
 {
     "id": 11,
     "nombre": "ALE - IPA",
-    "ingredientes": "Alta graduación alcohólica (entre 5º y 7º), tiene una mayor cantidad de lúpulo y por lo tanto un amargor y aroma intensos y cierta complejidad en el paladar",
+    "ingredientes": "Alta graduación alcohólica (entre 5º y 7º), tiene una mayor cantidad de lúpulo y por lo tanto amargor y aroma intensos y cierta complejidad en el paladar",
     "precio": 700,
     "img": "./img/ale-ipa.jpg",
     "cantidad": 1

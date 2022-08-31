@@ -7,15 +7,15 @@ class Mesa {
     }
 }
 
-const mesas = [new Mesa(10,'teclado'), new Mesa(15,'mouse'), new Mesa(20,'monitor')];
+const mesas = [new Mesa(10,'burger'), new Mesa(15,'papas'), new Mesa(20,'birra')];
 
 
 const mesaLogin = document.getElementById('numeroMesa'),
     codigoLogin = document.getElementById('codigoMesa'),
     recordar = document.getElementById('recordar'),
     btnLogin = document.getElementById('login'),
-    modalEl = document.getElementById('modalLogin'),
-    modal = new bootstrap.Modal(modalEl),
+    modalIni = document.getElementById('modalLogin'),
+    modal = new bootstrap.Modal(modalIni),
     view = document.querySelectorAll('.view');
 
 
@@ -74,8 +74,7 @@ btnLogin.addEventListener('click', (e) => {
         Swal.fire({
             icon: 'error',
             title: 'Lo lamento...',
-            text: 'Todos los campos son obligatorios para poder iniciar tu pedido!',
-            html: 'Todos los campos son obligatorios para poder iniciar tu pedido!'
+            text: 'Todos los campos son obligatorios para poder iniciar tu pedido!'
         });
 
     } else {
