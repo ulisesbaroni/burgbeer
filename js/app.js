@@ -1,22 +1,13 @@
 
-
 // MESAS/UBICACIÓN
-const mesas = [
+class Mesa {
+    constructor (mesa, code) {
+      this.mesa = mesa;
+      this.code = code;
+    }
+}
 
-    {
-        mesa: 10,
-        code: 'teclado'
-    },
-    {
-        mesa: 15,
-        code: 'mouse'
-    },
-    {
-        mesa: 20,
-        code: 'monitor'
-    },
-
-]
+const mesas = [new Mesa(10,'teclado'), new Mesa(15,'mouse'), new Mesa(20,'monitor')];
 
 
 const mesaLogin = document.getElementById('numeroMesa'),
