@@ -7,6 +7,15 @@ const contenedorCarrito = document.getElementById('carrito-contenedor');
 // Modal carrito de compra
 const carritoIndex = (productoId) => {
 
+    //Mostrar pequeño alert al añadir producto en el carrito
+    Toastify({
+        text: "Producto añadido con éxito!",
+        position: "center",
+        style: {
+          background: "linear-gradient(0deg, rgba(84,140,47,1) 0%, rgba(14,96,15,1) 100%)",
+        }
+      }).showToast();
+
     const renderProdcutoCarrito = () => {
         let producto = productos.find(producto => producto.id == productoId);
 

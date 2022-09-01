@@ -122,6 +122,22 @@ flex-direction: column;
 /* fin Contenedor de productos */
 
 
+/* Alert de producto añadido */
+.toastify-center {
+  border-radius: 2em;
+}
+
+.toastify {
+  font-weight: bolder;
+  padding: 7px 20px;
+}
+
+.toastify.on {
+  opacity: 0.9;
+}
+/* Fin Alert de producto añadido */
+
+
 /* Carrito de compras */
 .productoEnCarrito {
   margin: 5px 0;
@@ -164,8 +180,8 @@ footer {
   justify-content: space-between;
   z-index: 100;
   bottom: 5px;
-  padding-top: 13px;
-  padding-bottom: 8px;
+  padding-top: 11px;
+  padding-bottom: 7px;
   border-radius: 2em;
   min-width: 90%;
 }
@@ -180,5 +196,5 @@ footer {
 
 .boton-carrito h5 {
   font-weight: bold;
-  font-size: 17px;
+  font-size: 15px;
 }
